@@ -9,7 +9,8 @@ In the first phase, we plan to make a generative AI model that returns optimal s
 In the second phase, we will expand our domain from text to speech with SKT NUGU. We plan to implement speech recognition with verbal details such as emotion, tone, and speed of voice using existing libraries. Therefore, we can recommend optimal routine for verbal requests. Furthermore, our service keeps track of users’ conversation so that it can capture context, keywords and extra information like urgency and provide optimal smart home routine.
 
 ## Architecture Design
-tbd
+![VOICE-Architecture](https://github.com/user-attachments/assets/07ecc9f2-5a74-44fc-9b49-0b5b39b0125d)
+
 
 ## Videos
 tbd
