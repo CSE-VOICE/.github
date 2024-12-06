@@ -15,7 +15,7 @@ In the second phase, we will expand our domain from text to speech with SKT NUGU
 https://bit.ly/3D31aXJ
 
 ## 🔗 Links
-tbd
+Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
 
 ## 🧑🏻‍💻 Contributors
 | Role | Name | Organization | Email |
