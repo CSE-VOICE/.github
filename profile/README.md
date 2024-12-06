@@ -1,4 +1,4 @@
-# VOICE: A Multimodal Routine Recommender for Any Circumstances
+# 🗣️ VOICE: A Multimodal Routine Recommender for Any Circumstances
 > 한양대학교 2024-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/ITE Project in Hanyang Univ. 2024-2)
 
 ## 💁🏻‍♂️ Proposal
