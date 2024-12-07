@@ -1,23 +1,30 @@
 # 🗣️ VOICE: A Multimodal Routine Recommender for Any Circumstances
 > 한양대학교 2024-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/ITE Project in Hanyang Univ. 2024-2)
 
+![VOICE-viewpage](https://github.com/user-attachments/assets/aab920e3-7c06-4637-9b51-f6c4dba10795)
+<br/><br/>
+
 ## 💁🏻‍♂️ Proposal
 We propose a multimodal AI service for recommending suitable smart home routines to users in any circumstances. To do so, we divided our service into two phases.
 
 In the first phase, we plan to make a generative AI model that returns optimal smart home routines for users in any situations using text. In order to train this, we will derive tens of thousands of data with the format (circumstance: routine) using ChatGPT. To guarantee the quality of recommendation in any situations, we will construct dataset with various circumstances, even if it does not make much sense. After gathering dataset, we will train the model using transfer learning with transformer based GPT-2 or Llama(will be decided later). This will be done by using hugging face library.
 
 In the second phase, we will expand our domain from text to speech with SKT NUGU. We plan to implement speech recognition with verbal details such as emotion, tone, and speed of voice using existing libraries. Therefore, we can recommend optimal routine for verbal requests. Furthermore, our service keeps track of users’ conversation so that it can capture context, keywords and extra information like urgency and provide optimal smart home routine.
+<br/><br/>
 
 ## ⚒️ Architecture Design
-![VOICE-Architecture](https://github.com/user-attachments/assets/0d4702fb-eca2-4df7-91b8-5c69b8778f7c)
+![VOICE-final-architecture](https://github.com/user-attachments/assets/408606ba-35ea-48f3-9ca2-ebf7414d7559)
+<br/><br/>
 
 ## 🎥 Videos
-https://bit.ly/3D31aXJ
+tbd
+<br/><br/>
 
 ## 🔗 Links
 Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
+<br/><br/>
 
-## 🧑🏻‍💻 Contributors
+## 👫🏻 Contributors
 | Role | Name | Organization | Email |
 |------|-------|-------|-------|
 | AI Developer | Jaehwi Song | Dept. of Information Systems, College of Engineering, Hanyang University | wotns0319@naver.com |
