@@ -5,11 +5,11 @@
 <br/><br/>
 
 ## 💁🏻‍♂️ Proposal
-We propose a multimodal AI service for recommending suitable smart home routines to users in any circumstances. To do so, we divided our service into two phases.
+We propose a multimodal AI service that recommends optimal smart home routines tailored to diverse user circumstances. Our approach integrates generative AI and multimodal interaction capabilities to deliver context-aware automation. To do so, we divided our service into two phases.
 
-In the first phase, we plan to make a generative AI model that returns optimal smart home routines for users in any situations using text. In order to train this, we will derive tens of thousands of data with the format (circumstance: routine) using ChatGPT. To guarantee the quality of recommendation in any situations, we will construct dataset with various circumstances, even if it does not make much sense. After gathering dataset, we will train the model using transfer learning with transformer based GPT-2 or Llama(will be decided later). This will be done by using hugging face library.
+In the initial phase, we developed a generative AI model fine-tuned to deliver optimal smart home routines based on textual descriptions of user circumstances. To train the model, we constructed a robust dataset containing approximately 10,000 examples in the format (situation: routine). The dataset was generated using state-of-the-art generative AI models like ChatGPT, MS Copilot, Google Bard, and Claude. To ensure the recommendations are robust and contextually relevant, we included diverse and even unconventional circumstances in the dataset, expanding its versatility across realistic and imaginative scenarios. Once the dataset was prepared, we fine-tuned a transformer-based model, specifically the paust-t5-chat-large, optimized for Korean conversational contexts.
 
-In the second phase, we will expand our domain from text to speech with SKT NUGU. We plan to implement speech recognition with verbal details such as emotion, tone, and speed of voice using existing libraries. Therefore, we can recommend optimal routine for verbal requests. Furthermore, our service keeps track of users’ conversation so that it can capture context, keywords and extra information like urgency and provide optimal smart home routine.
+In the second phase, our service extends from text-based interaction to voice-based commands using SKT NUGU. By integrating speech recognition, the system will process verbal requests while capturing extra verbal details such as emotional tone, urgency, and the speed of speech using IBM Watson API. These voice-derived textual and nuanced details will then be combined to enhance the model’s ability to generate more contextually optimized smart home routine recommendations, further tailoring responses to the user’s specific circumstances. Furthermore, our service keeps track of users’ conversation so that it can capture context, keywords and extra information like urgency and provide optimal smart home routine.
 <br/><br/>
 
 ## ⚒️ Architecture Design
@@ -17,11 +17,19 @@ In the second phase, we will expand our domain from text to speech with SKT NUGU
 <br/><br/>
 
 ## 🎥 Videos
-tbd
+<div align="center">
+
+** ⬇️Click below image to watch demo video!⬇️ **
+[![Demo Video](https://img.youtube.com/vi/RquS2jUlkmU/0.jpg )](https://youtu.be/RquS2jUlkmU)
+
+
+</div>
 <br/><br/>
 
 ## 🔗 Links
 Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
+Blog: https://bit.ly/cse2024-voice-blog
+
 <br/><br/>
 
 ## 👫🏻 Contributors
