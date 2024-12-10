@@ -19,7 +19,7 @@ In the second phase, our service extends from text-based interaction to voice-ba
 ## 🎥 Videos
 <div align="center">
 
-** ⬇️Click below image to watch demo video!⬇️ **
+**⬇️ Click below image to watch demo video! ⬇️**
 
 [![Demo Video](https://img.youtube.com/vi/RquS2jUlkmU/0.jpg )](https://youtu.be/RquS2jUlkmU)
 
