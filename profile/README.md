@@ -13,7 +13,7 @@ In the second phase, our service extends from text-based interaction to voice-ba
 <br/><br/>
 
 ## ⚒️ Architecture Design
-![VOICE-final-architecture](https://github.com/user-attachments/assets/408606ba-35ea-48f3-9ca2-ebf7414d7559)
+![VOICE-architecture](https://github.com/user-attachments/assets/dd50616e-3f9b-46cb-bdfa-e2591a75bb55)
 <br/><br/>
 
 ## 🎥 Videos
@@ -25,7 +25,6 @@ In the second phase, our service extends from text-based interaction to voice-ba
 
 
 </div>
-<br/><br/>
 
 ## 🔗 Links
 Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
