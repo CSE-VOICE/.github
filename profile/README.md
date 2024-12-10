@@ -28,6 +28,7 @@ In the second phase, our service extends from text-based interaction to voice-ba
 
 ## 🔗 Links
 Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
+
 Blog: https://bit.ly/cse2024-voice-blog
 
 <br/><br/>
