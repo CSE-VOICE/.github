@@ -1,7 +1,7 @@
 # 🗣️ VOICE: A Multimodal Routine Recommender for Any Circumstances
-> **Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project**
+> ### **Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project**
 
-> 한양대학교 2024-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/ITE Project in Hanyang Univ. 2024-2)
+> ### 한양대학교 2024-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/ITE Project in Hanyang Univ. 2024-2)
 
 ![VOICE-viewpage](https://github.com/user-attachments/assets/aab920e3-7c06-4637-9b51-f6c4dba10795)
 <br/><br/>
