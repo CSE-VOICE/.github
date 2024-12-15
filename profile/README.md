@@ -1,4 +1,6 @@
 # 🗣️ VOICE: A Multimodal Routine Recommender for Any Circumstances
+> **Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project**
+
 > 한양대학교 2024-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/ITE Project in Hanyang Univ. 2024-2)
 
 ![VOICE-viewpage](https://github.com/user-attachments/assets/aab920e3-7c06-4637-9b51-f6c4dba10795)
@@ -19,18 +21,18 @@ In the second phase, our service extends from text-based interaction to voice-ba
 ## 🎥 Videos
 <div align="center">
 
-**⬇️ Click below image to watch demo video! ⬇️**
+**⬇️ Click below image to watch our demo video! ⬇️**
 
-[![Demo Video](https://img.youtube.com/vi/RquS2jUlkmU/0.jpg )](https://youtu.be/RquS2jUlkmU)
-
-
+<a href="[https://youtu.be/qRJ9v7GVWLA](https://www.youtube.com/watch?v=RquS2jUlkmU)">
+<img width="960" alt="voice-demo-frontpage" src="https://github.com/user-attachments/assets/1920d919-d9b1-496e-8be7-1ad4c9bb3479" />
+</a>
 </div>
+<br/><br/>
 
 ## 🔗 Links
-Jira: https://csevoice.atlassian.net/jira/software/projects/VOICE/boards/1/backlog
-
-Blog: https://bit.ly/cse2024-voice-blog
-
+#### [VOICE-TechBlog](https://bit.ly/cse2024-voice-blog)
+#### [VOICE-Documentation.pdf](https://github.com/user-attachments/files/18139578/VOICE-Documentation.pdf)
+#### [VOICE-PPT.pdf](https://github.com/user-attachments/files/18139592/VOICE-PPT.pdf)
 <br/><br/>
 
 ## 👫🏻 Contributors
