@@ -23,7 +23,7 @@ In the second phase, our service extends from text-based interaction to voice-ba
 
 **⬇️ Click below image to watch our demo video! ⬇️**
 
-<a href="[https://youtu.be/qRJ9v7GVWLA](https://www.youtube.com/watch?v=RquS2jUlkmU)">
+<a href="https://www.youtube.com/watch?v=RquS2jUlkmU">
 <img width="960" alt="voice-demo-frontpage" src="https://github.com/user-attachments/assets/1920d919-d9b1-496e-8be7-1ad4c9bb3479" />
 </a>
 </div>
