@@ -31,8 +31,8 @@ In the second phase, our service extends from text-based interaction to voice-ba
 
 ## 🔗 Links
 #### [VOICE-TechBlog](https://bit.ly/cse2024-voice-blog)
-#### <a href="https://docs.google.com/viewer?url=https://github.com/CSE-VOICE/VOICE-DOC/blob/main/VOICE.pdf?raw=True" target="_blank">VOICE-Documentation.pdf</a>
-#### [VOICE-PPT.pdf](https://github.com/user-attachments/files/18139592/VOICE-PPT.pdf)
+#### [VOICE-Documentation.pdf](https://docs.google.com/viewer?url=https://github.com/CSE-VOICE/VOICE-DOC/blob/main/VOICE.pdf?raw=True)
+#### [VOICE-PPT.pdf](https://docs.google.com/viewer?url=https://github.com/CSE-VOICE/VOICE-DOC/blob/main/VOICE-PPT.pdf?raw=True)
 <br/><br/>
 
 ## 👫🏻 Contributors
